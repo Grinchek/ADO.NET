@@ -1,0 +1,15 @@
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\bin\Debug\net6.0\02_linqToSql.exe
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\bin\Debug\net6.0\02_linqToSql.deps.json
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\bin\Debug\net6.0\02_linqToSql.runtimeconfig.json
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\bin\Debug\net6.0\02_linqToSql.dll
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\bin\Debug\net6.0\02_linqToSql.pdb
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.AssemblyInfo.cs
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.dll
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\refint\02_linqToSql.dll
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.pdb
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\02_linqToSql.genruntimeconfig.cache
+C:\Users\dev\Desktop\ado.net\ado_net\02_linqToSql\obj\Debug\net6.0\ref\02_linqToSql.dll
