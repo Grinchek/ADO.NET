@@ -1,0 +1,15 @@
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\bin\Debug\net6.0\03_antity_framework.exe
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\bin\Debug\net6.0\03_antity_framework.deps.json
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\bin\Debug\net6.0\03_antity_framework.runtimeconfig.json
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\bin\Debug\net6.0\03_antity_framework.dll
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\bin\Debug\net6.0\03_antity_framework.pdb
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.AssemblyInfo.cs
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.dll
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\refint\03_antity_framework.dll
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.pdb
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\03_antity_framework.genruntimeconfig.cache
+C:\Users\dev\Desktop\ado.net\ado_net\03_antity_framework\obj\Debug\net6.0\ref\03_antity_framework.dll
