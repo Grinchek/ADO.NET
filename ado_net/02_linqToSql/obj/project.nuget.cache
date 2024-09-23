@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "thJRWmk1o4yzO71bwtPVKiYuH9DSuxAHSTeOaAOiznf21APr99wwpioCUP17gKjorFr0Tyg3pJfynrdrJm25Kw==",
+  "dgSpecHash": "SH4z08Z+zFvD1+ZCccDX+Q7A+By9VQIyE36COteXOWFzs6DYJjaGPwLt9vYKLJxkx7cuXXjBF/A6cye/ZDy1kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\Desktop\\ado.net\\ado_net\\02_linqToSql\\02_linqToSql.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Desktop\\ado.net\\ado_net\\02_linqToSql\\02_linqToSql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\warni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\warni\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\warni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\warni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

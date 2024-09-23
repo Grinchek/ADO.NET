@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj": {}
+    "C:\\Users\\User\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj": {
+    "C:\\Users\\User\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj",
         "projectName": "03_entity_framework",
-        "projectPath": "C:\\Users\\dev\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\ado.net\\ado_net\\03_antity_framework\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\ado.net\\ado_net\\03_antity_framework\\03_entity_framework.csproj",
+        "packagesPath": "C:\\Users\\warni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ado.net\\ado_net\\03_antity_framework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\warni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,12 +64,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

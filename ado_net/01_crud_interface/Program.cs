@@ -437,7 +437,7 @@ namespace _01_crud_interface
             //db.ShowSellBySellerName("Ivan Petrovich Yaroschuk");
             //db.ShowMoreExpensiveSales(100);
             //db.ShowMaxMinSalesBySellerName("Ivan Petrovich Yaroschuk");
-            db.ShowFirstSaleBySellerName("Ivan Petrovich Yaroschuk");
+            //db.ShowFirstSaleBySellerName("Ivan Petrovich Yaroschuk");
             //Sales sales = new Sales();
             //sales.ProductId = 4;
             //sales.Price = 5000;

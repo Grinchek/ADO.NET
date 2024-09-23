@@ -24,7 +24,7 @@ namespace _03_antity_framework
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer(@"workstation id=Shomiakom3.mssql.somee.com;packet size=4096;user id=Grincchik_SQLLogin_1;pwd=gstgjnpeqp;data source=Shomiakom3.mssql.somee.com;persist security info=False;initial catalog=Shomiakom3;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-A1447MR\SQLEXPRESS;Initial Catalog=BarberSho;Integrated Security=True");
         }
     }
     public class Country
