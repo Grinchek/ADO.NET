@@ -162,6 +162,35 @@ namespace _CRUD_interface_Sales
             SqlCommand command = new SqlCommand(cmdText, conn);
             command.ExecuteNonQuery();
         }
+        public void ShowTop1Seller()
+        {
+            string query = @"
+                SELECT TOP 1 Sellers.Id, Sellers.Fullname, SUM(Sales.Summa) AS TotalSales
+                FROM Sales
+                INNER JOIN Sellers ON Sales.SellerId = Sellers.Id
+                GROUP BY Sellers.Id, Sellers.Fullname
+                ORDER BY TotalSales desc ;";
+
+            using (SqlCommand command = new SqlCommand(query, conn))
+            {
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        int sellerId = reader.GetInt32(0);
+                        string Fullname = reader.GetString(1);
+                        decimal totalSales = reader.GetInt32(2);
+
+                        Console.WriteLine($"The best seller: {Fullname}");
+                        Console.WriteLine($"Total amount of sales: {totalSales}");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Продавців не знайдено.");
+                    }
+                }
+            }
+        }
 
 
 
@@ -179,6 +208,7 @@ namespace _CRUD_interface_Sales
             //saleForCreate.SaleDate = new DateTime(2024, 01, 12);
             //shop.CreateSale(saleForCreate);
             Sales shop = new Sales();
+            shop.ShowTop1Seller();
             //DateTime StartDate = new DateTime(2022, 06, 26);
             //DateTime EndDate = new DateTime(2024, 01, 12);
             //shop.ShowSellByPeriod(StartDate, EndDate);

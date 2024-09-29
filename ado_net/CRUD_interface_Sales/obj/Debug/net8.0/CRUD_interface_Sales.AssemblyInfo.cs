@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD_interface_Sales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c63f67383d919114dad928ada0fdd9998d7fd5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD_interface_Sales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD_interface_Sales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
