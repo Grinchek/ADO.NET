@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.AssemblyInfo.cs
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.sourcelink.json
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\bin\Debug\net8.0\data_acess.deps.json
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\bin\Debug\net8.0\data_acess.dll
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\bin\Debug\net8.0\data_acess.pdb
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.dll
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\refint\data_acess.dll
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\data_acess.pdb
+C:\Users\User\Desktop\ado.net\ado_net\data_acess\obj\Debug\net8.0\ref\data_acess.dll

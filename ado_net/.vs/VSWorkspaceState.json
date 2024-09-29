@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CRUD_interface_Sales"
+    "\\CRUD_interface_Sales",
+    "\\data_acess"
   ],
-  "SelectedNode": "\\ado_net.sln",
+  "SelectedNode": "\\data_acess\\Sales.cs",
   "PreviewInSolutionExplorer": false
 }

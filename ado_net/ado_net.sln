@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_entity_framework", "03_a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD_interface_Sales", "CRUD_interface_Sales\CRUD_interface_Sales.csproj", "{627C67B9-666B-4ACD-9107-9E5871F710E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluent_api", "fluent_api\fluent_api.csproj", "{9E62ADCF-95CF-4964-8EE9-300BACDE21D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fluent_api", "fluent_api\fluent_api.csproj", "{9E62ADCF-95CF-4964-8EE9-300BACDE21D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD_interface_sales_wpf", "CRUD_interface_sales_wpf\CRUD_interface_sales_wpf.csproj", "{0CE8BB83-32DC-4BA8-B5DE-1895C1069A65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data_acess", "data_acess\data_acess.csproj", "{EDEF39C5-1102-4998-9EF8-D39F9C7A6C80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{9E62ADCF-95CF-4964-8EE9-300BACDE21D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E62ADCF-95CF-4964-8EE9-300BACDE21D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E62ADCF-95CF-4964-8EE9-300BACDE21D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE8BB83-32DC-4BA8-B5DE-1895C1069A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE8BB83-32DC-4BA8-B5DE-1895C1069A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE8BB83-32DC-4BA8-B5DE-1895C1069A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE8BB83-32DC-4BA8-B5DE-1895C1069A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEF39C5-1102-4998-9EF8-D39F9C7A6C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEF39C5-1102-4998-9EF8-D39F9C7A6C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEF39C5-1102-4998-9EF8-D39F9C7A6C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEF39C5-1102-4998-9EF8-D39F9C7A6C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
